@@ -7,7 +7,7 @@ ini_set('display_errors', 'On');  //On or Off
             $db_host = 'localhost';  //  hostname
             $db_name = 'ah2018'; //  databasename
             $db_user = 'root';  //  username
-            $user_pw = '';  //  password
+            $user_pw = 'Alabhya1997#';  //  password
 
             $con = new PDO('mysql:host='.$db_host.'; dbname='.$db_name, $db_user, $user_pw);  
             $con->setAttribute( PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION );
