@@ -322,6 +322,7 @@ header .btn-new {
     position: relative;
     padding-top: 180px;
     color: #ffffff;
+    background-color: #fbfbfb;
     /*background: url("../images/bg.jpg");*/
     background-size: cover;
     color: #1a1a1a;
