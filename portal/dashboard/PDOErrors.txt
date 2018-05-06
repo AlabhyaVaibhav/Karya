@@ -1,0 +1,5 @@
+exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in C:\xampp\htdocs\AngelHack-Web\ah2018\connect.php:12
+Stack trace:
+#0 C:\xampp\htdocs\AngelHack-Web\ah2018\connect.php(12): PDO->__construct('mysql:host=loca...', 'root', 'Alabhya1997#')
+#1 C:\xampp\htdocs\AngelHack-Web\ah2018\portal\dashboard\dashboard.php(2): include('C:\\xampp\\htdocs...')
+#2 {main}
