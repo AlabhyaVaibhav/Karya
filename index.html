@@ -52,7 +52,16 @@
         </div>
       </div>
 
-
+      <button style="
+        z-index: 999;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        position: fixed;
+        background-color:tomato;"
+        id="downclick" onclick="scrolldown()">
+        &nbsp;
+      </button>
 
       <!-- Header -->
       <header>
@@ -596,6 +605,35 @@
         }
         );
         wow.init();
+
+        function scrolldown(){
+            $('#downclick').mousedown(function(event) {
+        switch (event.which) {
+        case 1:
+            window.scrollBy({
+              left:0,
+              top:650,
+              behavior: 'smooth' 
+            });
+            break;
+        case 2:
+            console.log("dhfhdvkj");
+            break;
+        case 3:
+            window.scrollBy({
+              left:0,
+              top:-650,
+              behavior: 'smooth' 
+            });
+            break;
+        default:
+            alert('You have a strange Mouse!');
+    }
+});
+            
+          
+
+        }
       </script>
     </body>
 
