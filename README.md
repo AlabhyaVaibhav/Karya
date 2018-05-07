@@ -1,4 +1,4 @@
-![alt text] (https://github.com/AlabhyaVaibhav/ah2018/blob/master/images/logo.png)
+![alt text](https://github.com/AlabhyaVaibhav/ah2018/blob/master/images/logo.png)
 # Karya - Making lives better
 ### Made during AngelHack Delhi'18
 Karya is providing a distributed platform which connects the employer and employee hence cutting the middleman and providing more employment opportunities.
