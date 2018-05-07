@@ -6,5 +6,10 @@ Karya is providing a distributed platform which connects the employer and employ
 # What is Karya ? 
 It’s a well known fact that the attrition rates in blue collar jobs are high. The major hole is because of lack in demand and supply and it’s hard to digest that given we have a population of 1.2 Billion and there is a decent percentage without employments. Karya is providing a distributed platform which connects the employer and employee hence cutting the middleman and providing more employment opportunities.
 
+### Screenshots
 
+![alt text](https://github.com/AlabhyaVaibhav/ah2018/blob/master/images/onboard.gif)
+![alt text](https://github.com/AlabhyaVaibhav/ah2018/blob/master/images/karya.gif)
+![alt text](https://github.com/AlabhyaVaibhav/ah2018/blob/master/images/features.gif)
+![alt text](https://github.com/AlabhyaVaibhav/ah2018/blob/master/images/employer.gif)
 
