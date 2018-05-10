@@ -5,8 +5,8 @@ ini_set('display_errors', 'On');  //On or Off
     
         try {
             $db_host = 'localhost';  //  hostname
-            $db_name = 'ah2018'; //  databasename
-            $db_user = 'root';  //  username
+            $db_name = 'dbname'; //  databasename
+            $db_user = 'yo_so_cool';  //  username
             $user_pw = 'somerealcoolpassword';  //  password
 
             $con = new PDO('mysql:host='.$db_host.'; dbname='.$db_name, $db_user, $user_pw);  
